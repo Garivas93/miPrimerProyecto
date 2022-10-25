@@ -2,3 +2,4 @@
 2. Aprender a programar en diferentes lenguajes requeridos en el curso
 3. Terminar con exito el master.
 4. Encontrar un empleo relacionado al desarrollo de aplicaciones.
+5. Llegar a un nivel avanzado al culminar el master
